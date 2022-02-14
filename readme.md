@@ -4,6 +4,8 @@
 
 Wavetable is a customizable, 3D printed speaker stand for your desktop.
 
+Also see it at: https://www.prusaprinters.org/prints/127168-wavetable-desktop-speaker-stand
+
 Adjustable for height, width, tilt angle and more. The cantilevered design allows you to partially reuse the negative space below your speaker. Despite the smooth curves and floating appearance, the stand is able hold the weight of large studio monitors easily.
 
 ![](photos/01_family_picture.png)
