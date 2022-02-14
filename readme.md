@@ -2,13 +2,13 @@
 
 # Overview.
 
-Wavetable is a customizable speaker stand for your desktop.
+Wavetable is a customizable, 3D printed speaker stand for your desktop.
 
 Adjustable for height, width, tilt angle and more. The cantilevered design allows you to partially reuse the negative space below your speaker. Despite the smooth curves and floating appearance, the stand is able hold the weight of large studio monitors easily.
 
 ![](photos/01_family_picture.png)
 
-Large or small, with a backstop or not
+Large or small, with or without a backstop, and highly configurable through the OpenSCAD parameters.
 
 ![](photos/09_latge_with_yamaha_hs80.jpg)
 
@@ -16,7 +16,7 @@ Here the large version is holding the Yamaha HS80 Studio Monitor, weighing in at
 
 ![](photos/06_with_small_speaker.jpg)
 
-Pictured above is a prototype 3d printed speaker on the small stand with backstop.
+Pictured above is a prototype 3D printed speaker on the small stand with backstop.
 
 # Modifications.
 
@@ -34,7 +34,7 @@ Saving will automatically update the main file showing your changes. This approa
 
 The `params_template_large.scad` results in a model the just barely fits on the platform of an Ender 3.
 
-For all models it is recommended to use an orientation like above. Smaller models can be interwoven and printed two at once, although one at a time is preferred for best quality.
+For all models it is recommended to use an orientation like above. Smaller models can be interwoven and printed two at once, although one at a time is preferred for best quality. The single profile makes for an easy print.
 
 - Examples were printed in Overture Light Grey Matte PLA.
 - Brim is advised to prevent warping of the thinner edges.
