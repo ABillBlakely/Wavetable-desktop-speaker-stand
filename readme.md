@@ -10,7 +10,7 @@ Adjustable for height, width, tilt angle and more. The cantilevered design allow
 
 Large or small, with or without a backstop, and highly configurable through the OpenSCAD parameters.
 
-![](photos/09_latge_with_yamaha_hs80.jpg)
+![](photos/09_large_with_yamaha_hs80.jpg)
 
 Here the large version is holding the Yamaha HS80 Studio Monitor, weighing in at 11.3 kg (\~25 lbs). Mounting putty (blue-tack or similar) is useful for keeping speakers in place without a backstop, as the surface is somewhat slick when using PLA. I sometimes use it for the stand base and on the speaker so everything stays put.
 
